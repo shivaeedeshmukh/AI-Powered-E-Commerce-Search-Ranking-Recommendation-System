@@ -1,0 +1,5 @@
+feature,importance
+semantic_similarity,0.4331300811848994
+product_text_length,0.24300902674239264
+tfidf_similarity,0.20166507980036222
+query_length,0.12219581227234594
